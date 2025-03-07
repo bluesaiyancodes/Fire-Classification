@@ -7,9 +7,9 @@ def parse_requirements(filename):
         return [line.strip() for line in req_file if line.strip() and not line.startswith("#")]
 
 setup(
-    name="nuclei_panoptic",
+    name="Fire Classification",
     version="0.1.0",
-    description="Nuclei Panoptic Segmentation Project",
+    description="Fire Classification Project",
     author="Bishal Swain",
     author_email="blue.bishal@rocketmail.com",
     packages=find_packages(where="src"),

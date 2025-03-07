@@ -1,7 +1,7 @@
 [project]
-name = "nuclei_panoptic"
+name = "fire_classification"
 version = "0.1.0"
-description = "Nuclei Panoptic Segmentation Project"
+description = "Fire Classification Project"
 authors = [{name = "Bishal Swain", email = "blue.bishal@rocketmail.com"}]
 dynamic = ["dependencies"]
 
